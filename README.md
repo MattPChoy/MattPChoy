@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Matt Choy. A 5th year Software Engineering student at UQ. Learn more about me at ![my site](https://mattpchoy.github.io/)
+
 <!--
 **MattPChoy/MattPChoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
