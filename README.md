@@ -3,6 +3,7 @@
 I'm Matt Choy. I'm a Graduate Software Engineer working at Deswik. Learn more about me at [my site](https://mattpchoy.github.io/)
 
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=mattpchoy&show_icons=true&theme=dracula"
@@ -14,7 +15,7 @@ I'm Matt Choy. I'm a Graduate Software Engineer working at Deswik. Learn more ab
   />
   <img src="https://github-readme-stats.vercel.app/api?username=mattpchoy&show_icons=true" />
 </picture>
-
+-->
 
 <!--
 **MattPChoy/MattPChoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
