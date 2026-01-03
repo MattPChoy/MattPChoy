@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matt Choy. I'm a Software Engineer working at Deswik. Learn more about me at [my site](https://mattpchoy.github.io/)
+I'm Matt Choy. I'm a Software Engineer working at Deswik. Learn more about me at [my site](https://mattpchoy.com/)
 
 
 <!--
